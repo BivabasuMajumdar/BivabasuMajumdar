@@ -1,13 +1,11 @@
 <!-- HEADER -->
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Bivabasu Majumdar</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<!--<h3 align="center">A passionate Web Developer</h3>-->
 
 <img align="right" alt="Coding" width="350" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BivabasuMajumdar&label=Profile%20views&color=0e75b6&style=flat" alt="BivabasuMajumdar" /> </p>
-
-- 🏄‍ I’m currently learning **NodeJs**
 
 - 🌐 All of my projects are available at [**Portfolio**](https://bivabasumajumdar.github.io/portfolio/)
 
@@ -31,8 +29,8 @@
 <a href="https://www.linkedin.com/in/bivabasu-majumdar-046b47203/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://bivabasumajumdar.github.io/portfolio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" alt="portfolio" height="30" width="40" /></a>
 <!-- <a href="https://www.instagram.com/_._biva01_._/" target="blank"><img align="center" src="https://icons8.com/icon/32323/instagram" alt="lense.story" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Bivabasu_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/12019009001265_b?hr_r=1" height="30" width="40" /></a> -->
-</p>
+<a href="https://www.hackerrank.com/Bivabasu_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/12019009001265_b?hr_r=1" height="30" width="40" /></a>
+</p>-->
 
 
 #
