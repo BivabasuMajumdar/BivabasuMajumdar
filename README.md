@@ -15,7 +15,7 @@
 
 - 📫  My Email ID **bivabasumajumdar2001@gmail.com**
 
-- 📄 Know about my experiences [**Resume**]([https://drive.google.com/file/d/1lDAmEyBQhDFbIVVD7qCgRwFKJITF1rIT/view?usp=sharing](https://drive.google.com/file/d/1M9byM1IfbFqvegEXXWX8HB9NIvXHXSaF/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**]([https://drive.google.com/file/d/1M9byM1IfbFqvegEXXWX8HB9NIvXHXSaF/view?usp=sharing]
 
 
 
