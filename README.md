@@ -15,7 +15,7 @@
 
 - 📫  My Email ID **bivabasumajumdar2001@gmail.com**
 
-- 📄 Know about my experiences [**Resume**]([https://drive.google.com/file/d/1M9byM1IfbFqvegEXXWX8HB9NIvXHXSaF/view?usp=sharing]
+- 📄 Know about my experiences [**Resume**]([https://drive.google.com/file/d/1M9byM1IfbFqvegEXXWX8HB9NIvXHXSaF/view?usp=sharing])
 
 
 
@@ -51,15 +51,6 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<img align="left" alt="firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Xd" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
@@ -69,29 +60,3 @@
 
 
 
-### 📊 GitHub Streak
-<div align="center">
-
-[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=BivabasuMajumdar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=ff4658&ring=ff4658&fire=ffed46&currStreakNum=ff4658&sideNums=ff4658&currStreakLabel=ff4658&sideLabels=ff4658&dates=ff4658)](https://github.com/BivabasuMajumdar)
-
-</div>
-
-### GitHub Activity Graph
-[![BivabasuMajumdar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BivabasuMajumdar&color=4658ff&line=ff4658&hide_title=true&hide_border=true&theme=github-compact&point=4658ff)](https://github.com/BivabasuMajumdar)
-
-<div align="center">
-
-
-#
-
-
-### Show some 💜 by starring some of the [repositories](https://github.com/BivabasuMajumdar?tab=repositories)!
-
-![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
-
-</div>
-
-![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
-
-
-#
